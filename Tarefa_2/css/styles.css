@@ -1,0 +1,36 @@
+.col-12 {
+    padding: 20px;
+    margin: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.col-12 i {
+    margin-right: 10px;
+    font-size: 40px;
+}
+
+.enviado {
+    border: 5px solid green;
+}
+
+.enviado i {
+    color: green;
+}
+
+.analise {
+    border: 5px solid blue;
+}
+
+.analise i {
+    color: blue;
+}
+
+.retornado {
+    border: 5px solid red;
+}
+
+.retornado i {
+    color: red;
+}
